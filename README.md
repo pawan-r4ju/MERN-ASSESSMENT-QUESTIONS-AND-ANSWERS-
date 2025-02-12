@@ -313,7 +313,7 @@
 50. What is the future of React? 
     - Future trends include React Server Components, improved concurrent mode, and better developer tools.
 
-## assessment quetions
+## Node.js assessment quetions
 
 ### Basic Questions (20)
 
@@ -727,7 +727,7 @@
     - Node.js continues to evolve with features like WebAssembly integration, improved performance, and enhanced security. 
     - Expect more alignment with modern JavaScript standards and broader adoption in enterprise application
 
-## assessment questions
+## MongoDB and Mongoose assessment questions
 
 ### Basic Questions (15)
 
